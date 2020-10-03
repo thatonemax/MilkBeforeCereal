@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to a Site that Will Change Your Life Forever!!! 
 
-You can use the [editor on GitHub](https://github.com/thatonemax/MilkBeforeCereal/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Did you know, that in 2019, over 284 million Americans ate breakfast cereals. I'm sure you and I know that feeling of cold delicious milk, paired with our cereal of choice. However, there is an interesting question that many fail to consider...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![cereal](https://images.unsplash.com/photo-1521483451569-e33803c0330c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=977&q=80)
 
-### Welcome to a Site that Will Change Your Life Forever!!! 
+### What came first, the cereal or the milk?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+By common convention those who eat cereal first shuffle the cereal into their bowl, followed by pouring in the milk. And you, the reader, likely does so first. 
+![milk first](https://images.unsplash.com/photo-1552404200-b22566b2317b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=632&q=80)
+![or cereal first](https://images.unsplash.com/photo-1457386335663-6115e304bd29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80)
 
 ```markdown
 Syntax highlighted code block
