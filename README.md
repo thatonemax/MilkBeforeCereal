@@ -10,9 +10,11 @@ By common convention those who eat cereal first shuffle the cereal into their bo
 In fact, I'd like you to go to [poll link](http://www.quibblo.com/quiz/bvJi9qK/What-do-you-put-in-first-the-cereal-or-the-milk) and fill out the poll.
 
 ![milk first](https://images.unsplash.com/photo-1552404200-b22566b2317b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=632&q=80) 
+
 1.milk first?
 
 ![or cereal first](https://images.unsplash.com/photo-1457386335663-6115e304bd29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80) 
+
 2.or cereal first?
 
 It comes down to how you enjoy your cereal. When putting the cereal first, you get a _more balanced cereal to milk ratio_, and you can continuously add additional milk at your discretion. However, when it comes down to your cereal, the cereal itself gets wet and soggy in the milk quickly.
