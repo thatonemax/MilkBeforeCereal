@@ -10,10 +10,10 @@ By common convention those who eat cereal first shuffle the cereal into their bo
 In fact, I'd like you to go to [poll link](http://www.quibblo.com/quiz/bvJi9qK/What-do-you-put-in-first-the-cereal-or-the-milk) and fill out the poll.
 
 ![milk first](https://images.unsplash.com/photo-1552404200-b22566b2317b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=632&q=80) 
-1. milk first?
+1.milk first?
 
 ![or cereal first](https://images.unsplash.com/photo-1457386335663-6115e304bd29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80) 
-2. or cereal first?
+2.or cereal first?
 
 It comes down to how you enjoy your cereal. When putting the cereal first, you get a _more balanced cereal to milk ratio_, and you can continuously add additional milk at your discretion. However, when it comes down to your cereal, the cereal itself gets wet and soggy in the milk quickly.
 
@@ -21,30 +21,3 @@ On the other hand, if you pour your milk first, your cereal sits atop the milk. 
 
 As a result, it comes down to your personal preference. Do you enjoy **crunchier cereal**, or **soggier cereal**? However, logically I would argue that pouring milk first may be the more logical decision. After all, cereal is meant to be crunchy; soggy Cinnamon Toast Crunch certainly seems undersirable. Regardless of my opinions, I would recommend you to take a shot. Perhaps change up your cereal routine next time you grab those Cheerios. Never hurts to try.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thatonemax/MilkBeforeCereal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
