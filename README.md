@@ -6,10 +6,13 @@ Did you know, that in 2019, over 284 million Americans ate breakfast cereals. I'
 
 ### What came first, the cereal or the milk?
 
-By common convention those who eat cereal first shuffle the cereal into their bowl, followed by pouring in the milk. And you, the reader, likely does so first. 
+By common convention those who eat cereal first shuffle the cereal into their bowl, followed by pouring in the milk. And you, the reader,likely does so first. 
+
 ![milk first](https://images.unsplash.com/photo-1552404200-b22566b2317b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=632&q=80)
+
 ![or cereal first](https://images.unsplash.com/photo-1457386335663-6115e304bd29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80)
 
+testing 123
 ```markdown
 Syntax highlighted code block
 
